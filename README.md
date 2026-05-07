@@ -42,10 +42,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahillshah&show_icons=true&theme=radical&v=1" alt="Sahil's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillshah&layout=compact&theme=radical&v=1" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahillshah&show_icons=true&theme=radical" alt="Sahil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillshah&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 ---
 <p align="center">
