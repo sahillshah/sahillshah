@@ -18,6 +18,7 @@
 **🌐 Web Frontend & Backend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -42,26 +43,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahillshah&show_icons=true&theme=radical" alt="Sahil's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillshah&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahillshah&show_icons=true&theme=radical&v=1" alt="Sahil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillshah&layout=compact&theme=radical&v=1" alt="Top Langs" />
 </p>
 
 ---
 <p align="center">
   📫 Reach out to me at: <a href="mailto:sahilsha0697@gmail.com">sahilsha0697@gmail.com</a>
 </p>
-
-<!--
-**sahillshah/sahillshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.instagram.com/__.sahillllll._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
